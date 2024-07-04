@@ -1,6 +1,6 @@
 # Análise de Acidentes de Trânsito no Brasil
 
-Este repositório contém scripts R para a análise de dados de acidentes de trânsito no Brasil utilizando diferentes técnicas de modelagem estatística e machine learning. Os dados utilizados são provenientes da Polícia Rodoviária Federal (PRF) e incluem informações detalhadas sobre os acidentes ocorridos em 2024. Os scripts cobrem uma variedade de abordagens analíticas, desde modelos de regressão logística multinomial até modelos de contagem zero-inflados com efeitos aleatórios.
+Este repositório contém scripts R para a análise de dados de acidentes de trânsito no Brasil utilizando diferentes técnicas de modelagem estatística. Os dados utilizados são provenientes da Polícia Rodoviária Federal (PRF) e incluem informações detalhadas sobre os acidentes ocorridos em 2024. Os scripts cobrem uma variedade de abordagens, desde modelos de regressão logística multinomial até modelos de contagem zero-inflados com efeitos aleatórios.
 
 ## Scripts
 
